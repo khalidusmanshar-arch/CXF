@@ -1,0 +1,6 @@
+{
+  "name": "GTASG2 — 3D Hyper-Real Protagonist & Paper Tear Experience",
+  "description": "Interactive 3D WebGL character showcase featuring a hyper-realistic protagonist whose eyes ignite with fire on mouse movement and transitions across states with physical 3D paper-tearing shaders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
